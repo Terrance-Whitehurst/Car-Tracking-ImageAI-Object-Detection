@@ -1,0 +1,14 @@
+SECOND :  13
+Array for the outputs of each frame  [[], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [], [{'name': 'car', 'percentage_probability': 52.642589807510376, 'box_points': (1949, 1556, 2106, 1638)}], [{'na
+me': 'car', 'percentage_probability': 55.9195339679718, 'box_points': (1946, 1557, 2109, 1639)}], [{'name': 'car', 'percentage_probability': 50.81784725189209, 'box_points': (1954, 1558, 2104, 1635)}], [{'name': 'car', 'percentage_probability': 55.104655027389526, 'box_points': (1952, 1557, 2107
+, 1637)}], [{'name': 'car', 'percentage_probability': 52.017778158187866, 'box_points': (1954, 1556, 2108, 1635)}], [], [{'name': 'car', 'percentage_probability': 55.04329204559326, 'box_points': (1957, 1558, 2117, 1636)}], [{'name': 'car', 'percentage_probability': 58.59934091567993, 'box_point
+s': (1953, 1561, 2123, 1641)}], [{'name': 'car', 'percentage_probability': 56.04986548423767, 'box_points': (1950, 1565, 2127, 1648)}], [], [], [], [], [], [{'name': 'car', 'percentage_probability': 54.23978567123413, 'box_points': (1942, 1579, 2132, 1666)}], [{'name': 'car', 'percentage_probabi
+
+lity': 57.8885555267334, 'box_points': (1938, 1577, 2136, 1668)}], [{'name': 'car', 'percentage_probability': 59.37332510948181, 'box_points': (1942, 1570, 2137, 1660)}], [{'name': 'car', 'percentage_probability': 62.73233890533447, 'box_points': (1939, 1571, 2140, 1664)}], [{'name': 'car', 'per
+centage_probability': 64.47684168815613, 'box_points': (1937, 1573, 2144, 1670)}], [{'name': 'car', 'percentage_probability': 50.78400373458862, 'box_points': (646, 1432, 988, 1585)}, {'name': 'car', 'percentage_probability': 60.04003882408142, 'box_points': (1932, 1574, 2147, 1671)}], [{'name':
+ 'car', 'percentage_probability': 59.61925387382507, 'box_points': (1932, 1580, 2150, 1675)}], [{'name': 'car', 'percentage_probability': 51.29898190498352, 'box_points': (1705, 1572, 1886, 1654)}, {'name': 'car', 'percentage_probability': 60.7424795627594, 'box_points': (1938, 1581, 2148, 1676)
+}], [{'name': 'car', 'percentage_probability': 57.998472452163696, 'box_points': (1940, 1579, 2150, 1677)}]]
+Array for output count for unique objects in each frame :  [{}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {'car': 1}, {'car': 1}, {'car': 1}, {'car': 1}, {'car': 1}, {}, {'car': 1}, {'car': 1},
+{'car': 1}, {}, {}, {}, {}, {}, {'car': 1}, {'car': 1}, {'car': 1}, {'car': 1}, {'car': 1}, {'car': 2}, {'car': 1}, {'car': 2}, {'car': 1}]
+Output average count for unique objects in the last second:  {'car': 0.31666666666666665}
+------------END OF A SECOND --------------
